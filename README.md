@@ -54,6 +54,7 @@ For overlapping concerns (code review, architecture review, doc review) I keep m
 
 - `/architect`
 - `/code-review`
+- `/debug-problem`
 - `/review-doc-logic`
 - `/review-doc-arch`
 
